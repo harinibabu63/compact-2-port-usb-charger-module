@@ -37,7 +37,7 @@ The PCB layout is designed to stay compact while still supporting high-current r
 
 - [Schematic Diagram](https://github.com/harinibabu63/compact-2-port-usb-charger-module/blob/main/USB%20charger%20module%20schematic.png)
 - [PCB Layout](https://github.com/harinibabu63/compact-2-port-usb-charger-module/blob/main/USB%20charger%20Module%20PCB.png)
-- [3D Board View]()
+- [3D Board View](https://github.com/harinibabu63/compact-2-port-usb-charger-module/blob/main/USB%20charger%20Module%203D%20view.png)
 - [Bill of Materials]()
 
 ## What I Learned
